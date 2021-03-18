@@ -78,6 +78,7 @@ def main(args):
             axs[i].scatter(x1, y)
             axs[i].plot(x1, np.dot(X, value))
             axs[i].set_xlabel(key.upper())
+        plt.savefig('plot.png')
         plt.show()
 
 if __name__ == '__main__':
