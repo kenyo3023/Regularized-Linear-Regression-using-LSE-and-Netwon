@@ -53,7 +53,7 @@ data = [-5.0, 51.76405234596766,
     Fitting line: 4.43295031008X^1 + 29.3064047061
     Total error: 16335.123165
 ```
-![n2lambda0](https://github.com/kenyo3023/Regularized-Linear-Regression-using-LSE-and-Netwon/blob/main/images/n2lambda0.png）
+![n2lambda0](https://github.com/kenyo3023/Regularized-Linear-Regression-using-LSE-and-Netwon/blob/main/images/n2lambda0.png)
 
 * Case 2: n = 3, = 0
 ```
