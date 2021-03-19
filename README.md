@@ -35,11 +35,11 @@ data = [-5.0, 51.76405234596766,
 
 ## How to Run
 ```
-    python main.py # 默認模式
+    python main.py
 ```
 * --n : the number of polynomial bases
 * --lambd: lambda of regularized (only for LSE case) 
-* --optimizer : optimizer （LSE, Newton or both. default is both）
+* --optimizer : optimizer (LSE, Newton or both. default is both)
 * --isplot : whether to visualize the output of the model
 
 ## Result
